@@ -4,7 +4,7 @@ permalink: /movies/
 exclude: true
 nav_exclude: true
 hidden: true
-title: 🎬 **Top Movies from Filmweb**
+title: 🎬 Top Movies from Filmweb
 ---
 
 {% raw %}
