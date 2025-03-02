@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # The Silence of the Lambs 1991
-# Rating: 8,22
+## Rating: 8,22
 ![The Silence of the Lambs 1991](https://fwcdn.pl/fpo/10/47/1047/8022081_1.7.webp)
 
 

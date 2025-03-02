@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # The Pianist 2002
-# Rating: 8,23
+## Rating: 8,23
 ![The Pianist 2002](https://fwcdn.pl/fpo/22/25/32225/7519150_1.7.webp)
 
 

@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # La vita è bella 1997
-# Rating: 8,29
+## Rating: 8,29
 ![La vita è bella 1997](https://fwcdn.pl/fpo/02/08/208/8161942.7.webp)
 
 

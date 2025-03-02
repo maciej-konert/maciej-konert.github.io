@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # Se7en 1995
-# Rating: 8,27
+## Rating: 8,27
 ![Se7en 1995](https://fwcdn.pl/fpo/07/02/702/8021069_1.7.webp)
 
 

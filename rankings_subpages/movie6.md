@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # 1994
-# Rating: 8,52
+## Rating: 8,52
 ![1994](https://fwcdn.pl/fpo/09/98/998/8021615_1.7.webp)
 
 

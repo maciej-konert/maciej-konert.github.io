@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # The Lord of the Rings: The Two Towers 2002
-# Rating: 8,28
+## Rating: 8,28
 ![The Lord of the Rings: The Two Towers 2002](https://fwcdn.pl/fpo/14/51/31451/7877022_1.7.webp)
 
 

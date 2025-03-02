@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # Schindler's List 1993
-# Rating: 8,33
+## Rating: 8,33
 ![Schindler's List 1993](https://fwcdn.pl/fpo/12/11/1211/7876866_1.7.webp)
 
 

@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # Fight Club 1999
-# Rating: 8,25
+## Rating: 8,25
 ![Fight Club 1999](https://fwcdn.pl/fpo/08/37/837/7522091_1.7.webp)
 
 

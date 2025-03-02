@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # The Shawshank Redemption 1994
-# Rating: 8,77
+## Rating: 8,77
 ![The Shawshank Redemption 1994](https://fwcdn.pl/fpo/10/48/1048/6925401_1.7.webp)
 
 

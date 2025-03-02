@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # 12 Angry Men 1957
-# Rating: 8,58
+## Rating: 8,58
 ![12 Angry Men 1957](https://fwcdn.pl/fpo/07/01/30701/8094290_1.7.webp)
 
 

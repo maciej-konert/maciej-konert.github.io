@@ -7,7 +7,7 @@ hidden: true
 ---
     
 # A Beautiful Mind 2001
-# Rating: 8,21
+## Rating: 8,21
 ![A Beautiful Mind 2001](https://fwcdn.pl/fpo/18/64/31864/7521208_1.7.webp)
 
 
