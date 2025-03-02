@@ -49,3 +49,4 @@ plugins:
 
 header_pages: []
 author: ""
+show_excerpts: false
