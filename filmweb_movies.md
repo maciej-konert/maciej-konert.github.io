@@ -4,9 +4,8 @@ permalink: /movies/
 exclude: true
 nav_exclude: true
 hidden: true
+title: 🎬 **Top Movies from Filmweb**
 ---
-
-# 🎬 **Top Movies from Filmweb**
 
 {% raw %}
 ## The Shawshank Redemption 1994
