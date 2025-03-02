@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie11/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # 1994

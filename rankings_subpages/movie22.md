@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie22/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # Inception 2010

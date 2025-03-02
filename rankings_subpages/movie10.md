@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie10/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # Schindler's List 1993

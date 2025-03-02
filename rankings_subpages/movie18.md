@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie18/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # The Silence of the Lambs 1991

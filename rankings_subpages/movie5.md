@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie5/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # 12 Angry Men 1957

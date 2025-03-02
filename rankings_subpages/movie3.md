@@ -2,6 +2,8 @@
 layout: page
 permalink: /rankings_subpages/movie3/
 exclude: true
+nav_exclude: true
+hidden: true
 ---
     
 # Intouchables 2011
