@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie2/
+exclude: true
 ---
     
 # The Green Mile 1999

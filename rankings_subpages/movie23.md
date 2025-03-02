@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie23/
+exclude: true
 ---
     
 # 2019

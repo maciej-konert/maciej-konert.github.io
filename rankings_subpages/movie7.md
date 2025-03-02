@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie7/
+exclude: true
 ---
     
 # One Flew Over the Cuckoo's Nest 1975

@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie17/
+exclude: true
 ---
     
 # The Pianist 2002

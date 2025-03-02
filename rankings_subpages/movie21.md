@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie21/
+exclude: true
 ---
     
 # Django Unchained 2012

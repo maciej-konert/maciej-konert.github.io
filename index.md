@@ -1,6 +1,7 @@
 ---
 layout: home
 title: ""
+exclude: true
 ---
 
 # 🎬 **The Highest-Rated Movies from Filmweb in One Place**

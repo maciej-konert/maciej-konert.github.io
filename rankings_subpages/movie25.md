@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie25/
+exclude: true
 ---
     
 # Scarface 1983

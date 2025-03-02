@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /movies/
+exclude: true
 ---
 
 # 🎬 **Top Movies from Filmweb**

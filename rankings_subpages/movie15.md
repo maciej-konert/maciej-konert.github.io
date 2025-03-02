@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie15/
+exclude: true
 ---
     
 # Fight Club 1999

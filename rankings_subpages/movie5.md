@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie5/
+exclude: true
 ---
     
 # 12 Angry Men 1957

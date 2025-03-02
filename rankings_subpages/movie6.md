@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie6/
+exclude: true
 ---
     
 # 1994

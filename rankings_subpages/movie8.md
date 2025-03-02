@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie8/
+exclude: true
 ---
     
 # The Godfather: Part II 1974
@@ -8,4 +9,4 @@ permalink: /rankings_subpages/movie8/
 ![The Godfather: Part II 1974](https://fwcdn.pl/fpo/10/90/1090/7196616_1.7.webp)
 
 
-The Godfather Part II is a 1974 American epic crime film produced and directed by Francis Ford Coppola, loosely based on the 1969 novel The Godfather by Mario Puzo, who co-wrote the screenplay with Coppola. The Godfather Part II is considered to be one of the greatest films of all time, as well as a rare example of a sequel that rivals its predecessor. [4]
+The Godfather Part II: Directed by Francis Ford Coppola. With Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro. The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.

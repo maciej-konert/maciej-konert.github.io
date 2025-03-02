@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie19/
+exclude: true
 ---
     
 # A Beautiful Mind 2001

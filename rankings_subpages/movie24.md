@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie24/
+exclude: true
 ---
     
 # 2008

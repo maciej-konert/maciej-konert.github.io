@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie1/
+exclude: true
 ---
     
 # The Shawshank Redemption 1994

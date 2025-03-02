@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /rankings_subpages/movie13/
+exclude: true
 ---
     
 # The Lord of the Rings: The Two Towers 2002
