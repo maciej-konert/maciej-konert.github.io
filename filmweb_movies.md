@@ -14,7 +14,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,77
 
-[Read more about The Shawshank Redemption 1994](rankings_subpages/movie1/)
+[Read more about The Shawshank Redemption 1994](/rankings_subpages/movie1/)
 
 ---
 
@@ -24,7 +24,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,60
 
-[Read more about The Green Mile 1999](rankings_subpages/movie2/)
+[Read more about The Green Mile 1999](/rankings_subpages/movie2/)
 
 ---
 
@@ -34,7 +34,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,60
 
-[Read more about Intouchables 2011](rankings_subpages/movie3/)
+[Read more about Intouchables 2011](/rankings_subpages/movie3/)
 
 ---
 
@@ -44,7 +44,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,59
 
-[Read more about The Godfather 1972](rankings_subpages/movie4/)
+[Read more about The Godfather 1972](/rankings_subpages/movie4/)
 
 ---
 
@@ -54,7 +54,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,58
 
-[Read more about 12 Angry Men 1957](rankings_subpages/movie5/)
+[Read more about 12 Angry Men 1957](/rankings_subpages/movie5/)
 
 ---
 
@@ -64,7 +64,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,52
 
-[Read more about 1994](rankings_subpages/movie6/)
+[Read more about 1994](/rankings_subpages/movie6/)
 
 ---
 
@@ -74,7 +74,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,42
 
-[Read more about One Flew Over the Cuckoo's Nest 1975](rankings_subpages/movie7/)
+[Read more about One Flew Over the Cuckoo's Nest 1975](/rankings_subpages/movie7/)
 
 ---
 
@@ -84,7 +84,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,38
 
-[Read more about The Godfather: Part II 1974](rankings_subpages/movie8/)
+[Read more about The Godfather: Part II 1974](/rankings_subpages/movie8/)
 
 ---
 
@@ -94,7 +94,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,35
 
-[Read more about The Lord of the Rings: The Return of the King 2003](rankings_subpages/movie9/)
+[Read more about The Lord of the Rings: The Return of the King 2003](/rankings_subpages/movie9/)
 
 ---
 
@@ -104,7 +104,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,33
 
-[Read more about Schindler's List 1993](rankings_subpages/movie10/)
+[Read more about Schindler's List 1993](/rankings_subpages/movie10/)
 
 ---
 
@@ -114,7 +114,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,31
 
-[Read more about 1994](rankings_subpages/movie11/)
+[Read more about 1994](/rankings_subpages/movie11/)
 
 ---
 
@@ -124,7 +124,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,29
 
-[Read more about La vita è bella 1997](rankings_subpages/movie12/)
+[Read more about La vita è bella 1997](/rankings_subpages/movie12/)
 
 ---
 
@@ -134,7 +134,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,28
 
-[Read more about The Lord of the Rings: The Two Towers 2002](rankings_subpages/movie13/)
+[Read more about The Lord of the Rings: The Two Towers 2002](/rankings_subpages/movie13/)
 
 ---
 
@@ -144,7 +144,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,27
 
-[Read more about Se7en 1995](rankings_subpages/movie14/)
+[Read more about Se7en 1995](/rankings_subpages/movie14/)
 
 ---
 
@@ -154,7 +154,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,25
 
-[Read more about Fight Club 1999](rankings_subpages/movie15/)
+[Read more about Fight Club 1999](/rankings_subpages/movie15/)
 
 ---
 
@@ -164,7 +164,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,24
 
-[Read more about Goodfellas 1990](rankings_subpages/movie16/)
+[Read more about Goodfellas 1990](/rankings_subpages/movie16/)
 
 ---
 
@@ -174,7 +174,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,23
 
-[Read more about The Pianist 2002](rankings_subpages/movie17/)
+[Read more about The Pianist 2002](/rankings_subpages/movie17/)
 
 ---
 
@@ -184,7 +184,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,22
 
-[Read more about The Silence of the Lambs 1991](rankings_subpages/movie18/)
+[Read more about The Silence of the Lambs 1991](/rankings_subpages/movie18/)
 
 ---
 
@@ -194,7 +194,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,21
 
-[Read more about A Beautiful Mind 2001](rankings_subpages/movie19/)
+[Read more about A Beautiful Mind 2001](/rankings_subpages/movie19/)
 
 ---
 
@@ -204,7 +204,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,21
 
-[Read more about The Lion King 1994](rankings_subpages/movie20/)
+[Read more about The Lion King 1994](/rankings_subpages/movie20/)
 
 ---
 
@@ -214,7 +214,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,21
 
-[Read more about Django Unchained 2012](rankings_subpages/movie21/)
+[Read more about Django Unchained 2012](/rankings_subpages/movie21/)
 
 ---
 
@@ -224,7 +224,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,21
 
-[Read more about Inception 2010](rankings_subpages/movie22/)
+[Read more about Inception 2010](/rankings_subpages/movie22/)
 
 ---
 
@@ -234,7 +234,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,19
 
-[Read more about 2019](rankings_subpages/movie23/)
+[Read more about 2019](/rankings_subpages/movie23/)
 
 ---
 
@@ -244,7 +244,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,16
 
-[Read more about 2008](rankings_subpages/movie24/)
+[Read more about 2008](/rankings_subpages/movie24/)
 
 ---
 
@@ -254,7 +254,7 @@ title: 🎬 Top Movies from Filmweb
 
 **Rating:** 8,16
 
-[Read more about Scarface 1983](rankings_subpages/movie25/)
+[Read more about Scarface 1983](/rankings_subpages/movie25/)
 
 ---
 
