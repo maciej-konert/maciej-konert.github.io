@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /scraped_filmweb_ranking/rankings_subpages/movie8/
+permalink: /rankings_subpages/movie8/
 exclude: true
 nav_exclude: true
 hidden: true

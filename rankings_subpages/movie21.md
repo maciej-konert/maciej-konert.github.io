@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /scraped_filmweb_ranking/rankings_subpages/movie21/
+permalink: /rankings_subpages/movie21/
 exclude: true
 nav_exclude: true
 hidden: true

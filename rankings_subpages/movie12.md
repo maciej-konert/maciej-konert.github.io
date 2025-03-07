@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /scraped_filmweb_ranking/rankings_subpages/movie12/
+permalink: /rankings_subpages/movie12/
 exclude: true
 nav_exclude: true
 hidden: true
