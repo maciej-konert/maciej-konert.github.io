@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: scraped_filmweb_ranking/movies/
+permalink: /scraped_filmweb_ranking/movies/
 exclude: true
 nav_exclude: true
 hidden: true
