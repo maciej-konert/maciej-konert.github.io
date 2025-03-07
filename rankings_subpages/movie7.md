@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rankings_subpages/movie7/
+permalink: /scraped_filmweb_ranking/rankings_subpages/movie7/
 exclude: true
 nav_exclude: true
 hidden: true

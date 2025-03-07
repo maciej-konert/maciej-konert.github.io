@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rankings_subpages/movie19/
+permalink: /scraped_filmweb_ranking/rankings_subpages/movie19/
 exclude: true
 nav_exclude: true
 hidden: true
