@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /scraped_filmweb_ranking/rankings_subpages/movie1/
-nav_exclude: true
 hidden: true
 title: The Shawshank Redemption 1994
 ---
